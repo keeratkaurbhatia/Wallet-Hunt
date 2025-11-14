@@ -22,7 +22,7 @@
 
 ---
 
-### 💓 The Quantum Pulse (Feel the magic!)
+### The Quantum Pulse (Feel the magic!)
 ```
 
 💓 ░░░▄▃▄▅▇█▇▅▄▃▄░░░  
@@ -50,7 +50,7 @@ Your wallet is missing, and logic alone might not cut it this time.
 
 ---
 
-### 🧠 Meet the Detectives
+### Meet the Detectives
 
 | Detective | Method | Personality |
 |------------|----------|-------------|
@@ -74,9 +74,9 @@ Your wallet is missing, and logic alone might not cut it this time.
 ```bash
 # Classical side
 g++ detectives.cpp -o detectives
-./detectives bfs      # Detective Layér
-./detectives dfs      # Detective Maz’uh
-./detectives random   # Detective Rando
+./detectives bfs     
+./detectives dfs      
+./detectives random   
 
 # Quantum side
 python strange_detective.py
